@@ -1,7 +1,8 @@
 # tgrabber
-This tool will help you to grab sites from Zone-H mirror
+⚠️
+This tool will help you to grab sites from Zone-H 
 
-installation
+☣️installation ☣️
 
 $ apt update && apt upgrade 
 
@@ -19,7 +20,7 @@ $ php g.php
 
 
 
-⚠️To show result 
+☣️To show result ☣️
 
 $ cd result
 
