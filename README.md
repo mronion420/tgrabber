@@ -25,3 +25,7 @@ $ php g.php
 $ cd result
 
 $cat [Your notifier name]
+
+
+
+#Coppied😶
